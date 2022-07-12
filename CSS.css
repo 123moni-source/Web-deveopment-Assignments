@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 3px blue;
+}
+
+header {
+    height: 125px;
+    background-color: rgb(142, 220, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.banner {
+    height: 100vh;
+    background-color: rgb(98, 160, 199);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 0px 0px 3px red ;
+    box-shadow: red 2px;
+}
+
+#Sec1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#Sec1 h2 {
+    width: 20%;
+    height: 300px;
+    background-color:rgb(7, 8, 96);
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#Sec2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#sec2 main {
+    width: 49%;
+    height: 500px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Sec2 article {
+    width: 49%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+#Sec2 aside {
+    height: 150px;
+    background-color: rgba(31, 121, 176, 0.479);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Sec3 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#Sec3 h1 {
+    width: 20%;
+    height: 300px;
+    background-color: rgb(116, 152, 245);
+    border-radius: 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+footer {
+    height: 100px;
+    background-color: rgb(42, 47, 63);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
