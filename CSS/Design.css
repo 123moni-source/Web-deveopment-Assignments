@@ -260,7 +260,7 @@ html {
         
         #left-side {
           width: 100%;
-          height: 200px;
+          /* height: 200px; */
           background-color: gray;
           color: #fff;
           margin-bottom: 20px;
@@ -379,7 +379,7 @@ html {
     
             #left-side {
               width: 100%;
-              height: 200px;
+              /* height: 200px; */
               background-color: gray;
               color: #fff;
               margin-bottom: 20px;
